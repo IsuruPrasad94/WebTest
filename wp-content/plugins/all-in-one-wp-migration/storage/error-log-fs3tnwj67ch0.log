@@ -1,0 +1,6 @@
+Nov 30 2024 10:09:40
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\wordpress\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\fs3tnwj67ch0): Directory not empty","File":"C:\\xampp\\htdocs\\wordpress\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Nov 30 2024 10:09:41
+{"Number":2,"Message":"filesize(): stat failed for C:\\xampp\\htdocs\\wordpress\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\fs3tnwj67ch0\\localhost-wordpress-wordpress-20241130-100916-fpmyxcgbcjru.wpress","File":"C:\\xampp\\htdocs\\wordpress\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
